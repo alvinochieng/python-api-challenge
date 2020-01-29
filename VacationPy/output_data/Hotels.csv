@@ -1,6 +1,8 @@
 City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed,Hotel Name
-rikitea,100,PF,1580258793,80,-23.12,-134.97,79.59,10.31,
-neuquen,50,AR,1580258943,20,-38.95,-68.06,77.0,13.87,El Olivo Hotel Zico Gourmet Restaurant
-hobart,75,AU,1580258736,43,-42.88,147.33,73.4,16.11,Hotel Grand Chancellor Hobart
-jamestown,57,SH,1580258948,79,-15.94,-5.72,74.73,11.95,Richards Travel Lodge
-new norfolk,75,AU,1580258852,43,-42.78,147.06,73.4,16.11,Subway® Restaurant
+paraguacu paulista,0,BR,1580271857,67,-22.41,-50.58,72.28,3.91,Suspiro Restaurante & Presentes
+el triunfo,0,HN,1580272050,86,13.12,-87.0,73.18,2.57,Golosinas Y Pulperia La Chela
+rio grande,0,BR,1580272082,87,-32.03,-52.1,72.0,1.01,Pandorato
+san patricio,0,MX,1580272151,63,19.22,-104.7,76.05,4.29,Señor Froy´s
+champerico,0,GT,1580272205,82,14.3,-91.92,72.86,4.03,7 Seas Restaurant
+monrovia,0,LR,1580272193,87,6.3,-10.8,79.41,4.43,Beirut
+veraval,0,IN,1580272350,40,20.9,70.37,72.0,8.72,Lords Inn Somnath

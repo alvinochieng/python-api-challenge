@@ -1,8 +1,7 @@
 City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed,Hotel Name
-paraguacu paulista,0,BR,1580271857,67,-22.41,-50.58,72.28,3.91,Suspiro Restaurante & Presentes
-el triunfo,0,HN,1580272050,86,13.12,-87.0,73.18,2.57,Golosinas Y Pulperia La Chela
-rio grande,0,BR,1580272082,87,-32.03,-52.1,72.0,1.01,Pandorato
-san patricio,0,MX,1580272151,63,19.22,-104.7,76.05,4.29,Señor Froy´s
-champerico,0,GT,1580272205,82,14.3,-91.92,72.86,4.03,7 Seas Restaurant
-monrovia,0,LR,1580272193,87,6.3,-10.8,79.41,4.43,Beirut
-veraval,0,IN,1580272350,40,20.9,70.37,72.0,8.72,Lords Inn Somnath
+jamestown,0,SH,1580358609,78,-15.94,-5.72,74.05,8.63,Richards Travel Lodge
+igatpuri,0,IN,1580358991,24,19.7,73.55,79.57,1.19,Manas Resort With Petting Zoo
+mormugao,0,IN,1580359391,69,15.4,73.8,75.2,8.05,Hotel Anantashram
+paredon,0,MX,1580359453,74,16.03,-93.87,77.74,9.4,Restaurant Zalatiel
+partur,0,IN,1580359457,41,19.6,76.22,75.6,6.53,Jyoti Tarodkar
+visavadar,0,IN,1580359457,26,21.38,70.68,73.42,5.99,Hotel ramnath
